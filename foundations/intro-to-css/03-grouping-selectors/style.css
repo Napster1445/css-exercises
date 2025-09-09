@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.do, .dont{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.do{
+    background-color: black;
+    color: white;
+}
+
+.dont{
+    background-color: yellow;
+}
